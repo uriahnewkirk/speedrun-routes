@@ -1,11 +1,22 @@
 
-pick Tododile
+time = whatever
+set day = SUNDAY
+
+pick Tododile (middle)
+
+Catch Sentret (Cut)
+
+
 
 Rival 2: Bite, Fury Cutter (Prayge), Bite
 
+Fly Ecruteak to catch Poliwag (Waterfall, Whirlpool)
 
 
-ELITE FOUR
+
+
+
+##ELITE FOUR
 
   Will: X Special then Surf, IP, Strength, Return x2-3, Surf
 
