@@ -13,25 +13,31 @@ Buy Escape Rope (x2)
 
 ## BUGSY
 
+
+## Rival 2
+
+Heal to full
+Equip PrzcureBerry
+Teach Fury Cutter
 *Rival 2*: Bite, Fury Cutter (Prayge), Bite  
-
-Fly Ecruteak to catch Poliwag (Waterfall, Whirlpool)  
-
 
 ## WHITNEY
 
+Buy X Attack (3), X Speed (2), X Accuracy (1), & Revive (1)
 
 ## MORTY
 
 
 ## CHUCK
 
+Fly Ecruteak to catch Poliwag (Waterfall, Whirlpool)  
 
 ## JASMINE
 
 
 ## ROCKET HQ
 
+After Fake Director: Teach Return over Bite
 
 ## PRYCE
 
@@ -49,7 +55,8 @@ Fly Ecruteak to catch Poliwag (Waterfall, Whirlpool)
 
   *Karen*: X Special, (X Accuracy if Sand Attack, Full Heal/Restore if Confuse Ray), Surf x2, IP, Surf, Return(Surf if crit Umbreon), Surf  
 
-  *Lance*: Return, then X Speed, then Strength, IP, IP, IP, Surf, Surf  
+  *Lance*: Return, (X Speed) Strength, IP, IP, IP, Surf, Surf  
+
 
 (Reset after saving textbox goes away)  
 
