@@ -16,9 +16,9 @@ Buy Escape Rope (x2)
 
 ## Rival 2
 
-Heal to full
-Equip PrzcureBerry
-Teach Fury Cutter
+Heal to full  
+Equip PrzcureBerry  
+Teach Fury Cutter  
 *Rival 2*: Bite, Fury Cutter (Prayge), Bite  
 
 ## WHITNEY
