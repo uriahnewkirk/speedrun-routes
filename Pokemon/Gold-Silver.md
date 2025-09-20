@@ -55,8 +55,36 @@ After Fake Director: Teach Return over Bite
 
   *Karen*: X Special, (X Accuracy if Sand Attack, Full Heal/Restore if Confuse Ray), Surf x2, IP, Surf, Return(Surf if crit Umbreon), Surf  
 
-  *Lance*: Return, (X Speed) Strength, IP, IP, IP, Surf, Surf  
+  *Lance*: Return+X Speed+Strength, IP, IP, IP, Surf, Surf  
 
 
 (Reset after saving textbox goes away)  
+
+## ERIKA
+
+
+## SABRINA
+
+
+## MISTY
+
+
+## SURGE
+
+
+## BROCK
+
+
+## BLAINE
+
+
+## JASMINE
+
+
+## BLUE
+
+
+## RED
+
+*Red*: Guard Spec, X Speed, X Attack x2, Return, Return x2, Return, Return x2, Return x2, Return+Strength
 
