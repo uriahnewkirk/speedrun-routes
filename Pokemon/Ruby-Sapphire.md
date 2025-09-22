@@ -6,10 +6,11 @@ pick Mudkip (Lonely)
 
 ## Brawly
 
+*Brawly*: xAttack, MS x2-3 | MS x2
 
 ## Rival 2
 
-*Rival 2*: xAttack x2, xSpeed, Super Potion, Mud-Slap | Mud-Slap x2 | Mud-Slap
+*Rival 2*: xAttack x2, xSpeed, Super Potion, Mud-Slap | Mud Shot x2 | Mud Shot
 
 ## Wattson
 
@@ -19,7 +20,8 @@ pick Mudkip (Lonely)
 
 ## Norman
 
-*Norman*: xDefend, xAttack x2, Mud-Slap, Energy Root, Mud-Slap x2 | Mud-Slap, Energypowder, Strength | Mud-Slap x2, Heal, Mud-Slap Facade
+Right Door, Left Door, Right Door, Left Door  
+*Norman*: xDefend, xAttack x2, Mud Shot, Energy Root, Mud Shot x2 | Mud Shot, Energypowder, Strength | Mud Shot x2, Heal, MS  
 
 ## Winona
 
