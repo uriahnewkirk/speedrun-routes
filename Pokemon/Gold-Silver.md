@@ -86,5 +86,5 @@ After Fake Director: Teach Return over Bite
 
 ## RED
 
-*Red*: Guard Spec, X Speed, X Attack x2, Return, Return x2, Return, Return x2, Return x2, Return+Strength
+*Red*: Guard Spec, X Speed, X Attack x3, Return, Return x2, Return, Return x2, Return x2, Return+Strength
 
