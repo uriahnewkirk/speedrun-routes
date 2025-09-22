@@ -6,7 +6,8 @@ pick Mudkip (Lonely)
 
 ## Brawly
 
-*Brawly*: xAttack, MS x2-3 | MS x2
+*Brawly*: xAttack, MS x2-3 | MS x2  
+teach Rock Smash over Mud-Slap
 
 ## Rival 2
 
