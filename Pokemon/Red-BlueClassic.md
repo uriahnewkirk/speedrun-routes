@@ -1,3 +1,9 @@
+
+pick Squirtle  
+Fight 1 Level 2 or Level 3 encounter for XP  
+Catch Nido (Level 3 or Level 4)  
+(Paras/Oddish for Cut)  
+
 ## NIDORAN
 
 
@@ -8,7 +14,13 @@
 
 
 ## BRIDGE
+*Rival2*:
+- Pidgeotto: HA x3 (+ PS)
+- Abra: HA
+- Rattata: HA + PS
+- Bulbasaur: HA x2 (+ PS or HA if Growl)
 
+At level 21, Rare Candy (x2) & teach Thrash over Tackle  
 
 ## MISTY
 
