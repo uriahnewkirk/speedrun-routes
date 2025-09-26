@@ -52,6 +52,9 @@ teach Dig to Squirtle
 
 ## FLY
 
+swap Helix Fossil with Bicycle  
+teach Thunderbolt (TM24) over Water Gun  
+
 
 ## HIDEOUT
 
