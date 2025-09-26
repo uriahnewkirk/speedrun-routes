@@ -32,7 +32,7 @@ At level 21, Rare Candy (x2) & teach Thrash over Tackle
 
 
 ## SURGE
-
+teach Bubblebeam (TM11) over Poison Sting
 
 ## FLY
 
