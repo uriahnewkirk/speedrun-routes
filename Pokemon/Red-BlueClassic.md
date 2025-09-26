@@ -8,10 +8,16 @@ Catch Nido (Level 3 or Level 4)
 
 
 ## BROCK
-
+Center before Brock & swap Nido to first party slot  
+Start Nido & Swap Squirtle to Bubble for Geodude & Onix  
+Leer + HA until AFTER Youngeter Joey, then HA + Tackle/Poison Sting
 
 ## MT. MOON
-
+Grab Water Gun (immediately left), battle Super Nerd & Lass  
+Teach Water gun, then fight Hiker  
+Catch Paras? (Prayge)  
+Moon Stone evolve before Rocket Grunt  
+Heal at Cerulean Center  
 
 ## BRIDGE
 *Rival2*:
