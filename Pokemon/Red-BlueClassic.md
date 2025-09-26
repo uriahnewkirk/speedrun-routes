@@ -65,9 +65,24 @@ Celadon Mart:
 
 ## HIDEOUT
 
+teach Ice Beam (TM13) over Bubblebeam  
+
+teach Rock Slide (TM48) over Horn Attack  
+teach Horn Drill (TM07) over Thrash  
+
+*Giovanni*:
+- Onix: X Acc + IB
+- Rhyhorn: IB
+- Kangaskhan: HD
 
 ## FLUTE
 
+*Lavender Rival*:
+- Pidgeotto: X Acc + IB
+- Gyarados: TB
+- Growlithe: HD
+- Kadabra: HD
+- Ivysaur: HD
 
 ## KOGA
 
