@@ -34,6 +34,13 @@ At level 21, Rare Candy (x2) & teach Thrash over Tackle
 ## SURGE
 teach Bubblebeam (TM11) over Poison Sting
 
+Boat Rival:  
+- Pidgeotto: HA + BB
+	- If Pidgeotto lands a Sand-Attack, swap to your bird and let it faint
+- Raticate: BB x2
+- Kadabra: Thrash x1
+- Ivysaur: Thrash x2
+
 ## FLY
 
 
