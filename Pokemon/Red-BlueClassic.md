@@ -42,6 +42,14 @@ teach Bubblebeam (TM11) over Poison Sting
 - Kadabra: Thrash x1
 - Ivysaur: Thrash x2
 
+get Boat Rare Candy  
+teach Dig to Squirtle  
+
+*Surge*:  
+- Voltorb: BB + BB or HA
+- Pikachu: Thrash
+- Raichu: Thrash x2
+
 ## FLY
 
 
