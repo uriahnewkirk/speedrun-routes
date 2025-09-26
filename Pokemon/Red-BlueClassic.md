@@ -30,6 +30,7 @@ At level 21, Rare Candy (x2) & teach Thrash over Tackle
 
 ## MISTY
 
+*Misty*: Thrash (x3)  
 
 ## SURGE
 teach Bubblebeam (TM11) over Poison Sting
