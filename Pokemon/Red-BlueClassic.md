@@ -55,6 +55,13 @@ teach Dig to Squirtle
 swap Helix Fossil with Bicycle  
 teach Thunderbolt (TM24) over Water Gun  
 
+Celadon Mart:  
+- Sell Nugget (x2)
+- Buy Fresh Water (x2) & Soda pop (x1)
+- Buy 16 X Accuracy
+- Buy 2 X Special
+- Buy 9 X Speed 
+
 
 ## HIDEOUT
 
