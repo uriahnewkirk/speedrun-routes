@@ -11,8 +11,8 @@ Center before Brock & swap Nido to first party slot
 Start Nido & Swap Squirtle to Bubble for Geodude & Onix  
 
 ## ROUTE 3
-Battle Style: SET
-Leer + HA until AFTER Youngeter Joey, then HA + Tackle/Poison Sting
+Battle Style: SET  
+Leer + HA until AFTER Youngeter Joey, then HA + Tackle/Poison Sting  
 
 ## MT. MOON
 Grab Water Gun (immediately left), battle Super Nerd & Lass  
