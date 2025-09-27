@@ -1,15 +1,17 @@
 
+## NIDORAN
 pick Squirtle  
 Fight 1 Level 2 or Level 3 encounter for XP  
 Catch Nido (Level 3 or Level 4)  
+Catch Flyer (Spearow/Pidgey)
 (Paras/Oddish for Cut)  
-
-## NIDORAN
-
 
 ## BROCK
 Center before Brock & swap Nido to first party slot  
 Start Nido & Swap Squirtle to Bubble for Geodude & Onix  
+
+## ROUTE 3
+Battle Style: SET
 Leer + HA until AFTER Youngeter Joey, then HA + Tackle/Poison Sting
 
 ## MT. MOON
@@ -86,27 +88,81 @@ teach Horn Drill (TM07) over Thrash
 
 ## KOGA
 
+*Silph Rival*:  
+- Pidgeot: X Acc + X Speed + HD
+- Gyarados: HD
+- Growlithe: Rock Slide
+- Alakazam: HD
+- Venusaur: HD
 
-## NON-LINEAR
+Max Ether Horn Drill before next rocket grunt  
 
+*Silph Giovanni*:
+- Nidorino: X Acc + HD
+- Kangaskhan: HD
+- Rhyhorn: IB
+- Nidoqueen: HD
+
+Upon entering Fuscia City:
+- Use 4 Rare Candies on Nido (1 remaining)  
+- PP UP Horn Drill
+- Teach Earthquake (TM26) over Rock slide
+- Go Safari Zone
+
+(Gym: EQ (x1) everything)
+
+*Koga*:
+- Koffing: EQ
+- Muk: EQ
+- Koffing: EQ
+- Weezing: use slot 6 Elixer, then stall with slot 17 Poke Flute until it uses Self Destruct
 
 ## MANSION
 
+Use Rare Candy to revive Nido  
+Bike to Warden for HM04, then Fly to Pallet Town  
+Teach HM04 to Squirtle over Tackle  
+Use Carbos on Nido  
+Get two Rare Candies  
+Use Candies before picking up Secret Key  
 
 ## BLAINE
 
+Gym puzzle: A B B B A B  
+
+*Blaine*:
+- Growlithe: X Acc + EQ
+- Ponyta: HD
+- Rapidash: HD
+- Arcanine: HD
+
+DIG out, Bike to Saffron  
 
 ## SABRINA
 
+*Sabrina*:
+- Kadabra: EQ
+- Mr. Mime: EQ
+- Venomoth: EQ
+- Alakazam: EQ (+ EQ again if Reflect is used)
 
-## BLAINE
-
+Use teleporter, DIG out, & Fly Celadon
 
 ## ERIKA
 
+*Erika*: IB (x3)  
+Fly to Viridian  
 
 ## GIOVANNI
 
+Re-enter gym after Blackbelt  
+
+*Giovanni*:
+- Rhyhorn: IB
+- Dugtrio: IB
+- Nidoqueen: EQ
+- Nidoking: EQ
+- Rhydon: IB x1-2 (Rhydon will not deal any damage to you)
 
 ## ELITE FOUR
 
@@ -143,7 +199,7 @@ teach Horn Drill (TM07) over Thrash
 Heal to 90+  
 
 *Champion*:  
-Pidgeot: X Acc + X Speed + HD  
+- Pidgeot: X Acc + X Speed + HD  
 - Alakazam: HD
 - Rhydon: HD
 - Gyarados: HD
