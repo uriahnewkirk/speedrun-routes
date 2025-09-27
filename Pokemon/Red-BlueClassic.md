@@ -166,6 +166,8 @@ Re-enter gym after Blackbelt
 
 ## ELITE FOUR
 
+Buy 6 Full Restores before entering  
+
 *Lorelei*:  
 - Dewgong:
   - Switch to your bird, then switch back to Nidoking
