@@ -13,12 +13,13 @@ Buy Escape Rope (x2)
 
 ## BUGSY
 
+Teach Bite over Scratch  
 
 ## Rival 2
 
 Heal to full  
-Equip PrzcureBerry  
-Teach Fury Cutter  
+Equip PrzcureBerry OR Berry  
+Teach Fury Cutter over Leer  
 *Rival 2*: Bite, Fury Cutter (Prayge), Bite  
 
 ## WHITNEY
