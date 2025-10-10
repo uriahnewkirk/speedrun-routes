@@ -32,6 +32,7 @@ Buy X Attack (3), X Speed (2), X Accuracy (1), & Revive (1)
 ## CHUCK
 
 Fly Ecruteak to catch Poliwag (Waterfall, Whirlpool)  
+Goldenrod to get Return & buy Pokedoll  
 
 ## JASMINE
 
