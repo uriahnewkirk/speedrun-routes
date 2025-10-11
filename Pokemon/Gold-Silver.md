@@ -4,7 +4,14 @@ time = whatever
 day = SUNDAY  
 pick Tododile (middle)  
 
-Catch Sentret (Cut)
+Moves:  
+  - Return
+  - Strength
+  - Ice Punch
+  - Surf
+
+
+Catch Sentret (Cut & Dig)
 
 ## FALKNER
 
