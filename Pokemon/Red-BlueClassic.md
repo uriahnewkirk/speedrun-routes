@@ -11,7 +11,7 @@ Center before Brock & swap Nido to first party slot
 Start Nido & Swap Squirtle to Bubble for Geodude & Onix  
 
 ## ROUTE 3
-Buy 13 Potions  
+PokeMart: Sell TM34, Buy 13 Potions  
 Battle Style: SET  
 Leer + HA until AFTER Youngeter Joey, then HA + Tackle/Poison Sting  
 
