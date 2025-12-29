@@ -13,10 +13,11 @@ Start Nido & Swap Squirtle to Bubble for Geodude & Onix
 ## ROUTE 3
 PokeMart: Sell TM34, Buy 13 Potions  
 Battle Style: SET  
-Leer + HA until AFTER Youngeter Joey, then HA + Tackle/Poison Sting  
+Leer + HA until Bug Catcher & Youngeter Joey   
+HA(x2) + Tackle/Poison Sting last 2 Bug Catchers  
 
 ## MT. MOON
-Grab Water Gun (immediately left), battle Super Nerd & Lass  
+Battle Super Nerd & Lass  
 Teach Water gun, then fight Hiker  
 Catch Paras? (Prayge)  
 Moon Stone evolve before Rocket Grunt  
