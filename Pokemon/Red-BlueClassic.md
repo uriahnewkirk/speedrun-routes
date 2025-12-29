@@ -14,7 +14,8 @@ Start Nido & Swap Squirtle to Bubble for Geodude & Onix
 PokeMart: Sell TM34, Buy 13 Potions  
 Battle Style: SET  
 Leer + HA until Bug Catcher & Youngeter Joey   
-HA(x2) + Tackle/Poison Sting last 2 Bug Catchers  
+HA(x2) + Tackle/Poison Sting last 2 Bug Catchers   
+*For safety*: fight one encounter (NOT Jigglypuff) for xp before Mt. Moon    
 
 ## MT. MOON
 Battle Super Nerd & Lass  
