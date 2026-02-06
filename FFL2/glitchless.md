@@ -1,20 +1,24 @@
-##1st World Home Town After character creation: Equipment Change: Human F(s): Remove Rapier(s). Robot: Equip Rapier(s) (+4 to +8 Agility)
+
+
+## Ashura  
+
+Equipment Change: Human F: Remove Rapier. Robot: Equip Rapier (+4 Agility)  
 
 Agility effects accuracy, evasion, the chance to run, and the damage agility-based weapons do. By removing the Rapiers from the Human Fs, you reduce the number of inputs required for each turn. Running away is successful if the random number rolled from 0 to 50 is less than 100 * (5 - # of active party members) + the sum of your party's agility - the sum of the enemy groups' agility As a result, whenever you have a 5th party member, you'll have a drastically reduced chance to run until you build your party's agility high enough to compensate. It's also harder to run away from a battle with 3 groups of enemies than a battle with just one or two though the difference is not as drastic as having a 5th party member.
 
-Cave of North Save before fighting the BabyWyrm and soft reset or restart the run until you get meat from it.
+Cave of North: Save before fighting the BabyWyrm and soft reset or restart the run until you get meat from it.
 
 vs. BabyWyrm Mr.S uses Fire. It doesn't matter what the rest of your party does. Meat: Have the Baby-D eat it to become a Silver. (+12 Agility)
 
 Shrine of Isis Talk to Ki.
 
-Relics of the Ancient Gods B1F Get the Whip. (Optional for the 2 Human F party)
+Relics of the Ancient Gods B1F Get the Whip.
 
 B3F Get the 3 Magi.
 
-Equipment Change (Skip this if you didn't get the Whip) Robot: Equip the Whip. (+4 Agility)
+Equipment Change Robot: Equip the Whip. (+4 Agility)
 
-Magi Change (If you skipped the Whip, wait until you get the Sabre to do this) Monster #1: Equip the Power Magi. Robot: Equip the Speed Magi.
+Magi Change Monster #1: Equip the Power Magi. Robot: Equip the Speed Magi.
 
 Shrine of Isis Talk to Ki to recruit her.
 
@@ -41,6 +45,10 @@ Mask joins and gets his equipment a floor up. He shouldn't cause much trouble wi
 10F Get the Battle Sword. (To be sold later)
 
 vs. Ashura Your Humans do nothing. An Imp can try to put Ashura to sleep, but it will mostly whiff. Silver uses Kick, Robot uses the Sabre, and Mask attacks with his Hammer. Ashura will usually be defeated in 2 or 3 turns. The only thing that can wipe you out is multiple casts of Flame.
+
+
+## Dunatis
+
 
 ##1st World Shrine of Isis Talk to the Fairy next to Ki to get the Magi to move forward. Head to the Giants' World.
 
@@ -80,6 +88,10 @@ Talk to Lynn on the last floor to recruit her. Equipment Change: Robot: Replace 
 
 vs. Dunatis Have the Robot attack with the Laser Sword. Take note if you get any extra drops from Dunatis.
 
+
+## Venus
+
+
 Lynn's Village Head to the weapon shop. Sell everything but the X-Cure and the Blitz Whip if Dunatis dropped one. Buy 3 Headbuts. If you got a Blitz Whip from Dunatis, you only need two. If you got anything else from Dunatis you can buy a Laser Sword instead of a Headbut.
 
 Equipment Change Robot: Equip the 3 Headbuts, 2 Headbuts and the Blitz Whip, or 2 Headbuts and a Laser Sword. Replace a Whip if you've already filled up all your equipment slots.
@@ -115,6 +127,10 @@ Volcano If your primary monster is still a Silver, look for single Piranhas to f
 Venus's City Attend the wedding at the west wing of Venus's Palace. Once you gain control, heal your Robot with an X-Cure, save, and confront Venus.
 
 vs. Venus Have your Robot attack with a Laser Sword. Your other characters won't be able to contribute much except take hits. Only multiple casts of Flame should be able to wipe your party out.
+
+
+## Magnate
+
 
 Leave, and head to the next world.
 
@@ -192,6 +208,10 @@ Valhalla Palace 6F Get the Book of Flare.
 
 vs. Odin 1st Turn: Human F #1 attacks Sleipnir with the Tank. Use the Aegis with your second party member. The Watcher uses StonGaze on the OdinCrows, and the Robot attacks Sleipnir with a Laser Sword.
 
+
+## Minion
+
+
 You can have the Human F #1 attack Odin instead, but it's possible for the Robot to not defeat the Sleipnir in one hit. If the OdinCrows aren't petrified, just leave them alone until Odin is defeated. Their attacks will mostly be blocked by the Tank and Aegis. After the 1st turn, have the Watcher use Beam on Odin. Everyone else does what they did on the 1st turn, except targeting Odin instead. Once Odin is defeated, if the OdinCrows are still around, have the Robot attack them with the Samurai Bow. Meat: Monster #2 can freely eat either Sleipnir or OdinCrow meat at this point. If Sleipnir meat dropped, you'll receive drastically reduced gold. This only matters if you have two Human Fs.
 
 Use the Pegasus Magi to warp to Valhalla Palace to be taken to outside the exit. Continue on to the next world.
@@ -210,6 +230,10 @@ Save in front of WarMach.
 
 vs. WarMach The Watcher uses StonGaze. (60% chance to hit) Dad uses the Heal Staff. Same deal as Minion, it's possible for the Robot to take out WarMach, but it'll be a long battle.
 
+
+## Apollo
+
+
 Get the Heart Magi, and head north to the Final Town.
 
 Final Town Weapon Shop Sell everything. Buy a CatClaw, and 3 to 4 Laser Guns. Only 3 Laser Guns are needed for a Human F, Imp party and you can only afford 3 if Sleipnir meat dropped.
@@ -225,6 +249,10 @@ Leave and head back to the Forest, and enter the Pillar of Sky there.
 Central Shrine Save before confronting Apollo.
 
 vs. Apollo Turns 1 to 5 Anyone that has a Laser Gun equipped uses it. Watcher uses Beam. Monster #2 does whatever is effective or produces the least amount of text each turn. Dad uses Flare.
+
+
+## TianLung
+
 
 Turn 6 The Robot switches to attacking with a CatClaw. Apollo will attack with the Masamune. Who Apollo hits with the Masamune determines the course of the next 2 turns.
 
@@ -246,7 +274,15 @@ Your primary monster won't eat any meat from random encounters, but a secondary 
 
 When you reach the first mini-boss, save. vs. Tian-Lung Reset if there's more than 2 or if your primary monster gets KO'd during the fight. Have your Human Fs fire their Laser Guns. A secondary monster uses its strongest attack. The Watcher uses StonGaze. It won't actually do anything, but Beam won't make an appreciable difference and will play an animation as well. The Robot attacks with the CatClaw. Isis uses Flare. Meat: Have the Watcher eat it to become a Madame.
 
+
+## Fenrir
+
+
 Save before the 2nd mini-boss. vs. Fenrir Reset if there's more than 2. Have your Human Fs fire their Laser Guns. A secondary monster uses its strongest attack. Madame uses Absorb. The Robot attacks with the CatClaw. Isis uses Flare. If anything goes wrong during this battle, or if you have a petrified party member, feel free to have Isis use the Heart magi. Meat: Monster #2 eats it. If you don't have a secondary monster, leave it.
+
+
+## Arsenal
+
 
 Last Floor Refer to a video above to learn how to navigate through this floor. Musashi are more common on this floor. You can rarely run into Haniwas here. You can run away from them, and should since there's no reason to fight them. Before you fight Arsenal, use a Tent if available, and save.
 
@@ -263,3 +299,8 @@ Phase 3: Launches Smasher Phase (5000 HP) Human Fs fire their Laser Guns until n
 Launches Smasher deals 99 to 639 damage. The exact formula is 99 + 18 * a random number from 0 to 30, ignoring defense.
 
 ##The End After the battle, talk to Isis. Take the elevator you passed by earlier, and go talk to Dad to start the credits.
+
+
+
+
+source: https://www.speedrun.com/ffl2/guides/fridj
