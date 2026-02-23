@@ -2,7 +2,7 @@
 
 ## Ashura  
 
-Equipment Change: Human F: Remove Rapier. Robot: Equip Rapier (+4 Agility)  
+Equipment Change: Human F: Remove Rapier. Robot: Equip Rapier (+4 Agility) in slot 4  
 
 Agility effects accuracy, evasion, the chance to run, and the damage agility-based weapons do. By removing the Rapiers from the Human Fs, you reduce the number of inputs required for each turn. Running away is successful if the random number rolled from 0 to 50 is less than 100 * (5 - # of active party members) + the sum of your party's agility - the sum of the enemy groups' agility As a result, whenever you have a 5th party member, you'll have a drastically reduced chance to run until you build your party's agility high enough to compensate. It's also harder to run away from a battle with 3 groups of enemies than a battle with just one or two though the difference is not as drastic as having a 5th party member.
 
