@@ -1,7 +1,7 @@
 ## FALKNER
 
-TIME=DAY (SENTRET)  
 pick Totodile  
+Catch Sentret (DAY)
 
 
 ## BUGSY
