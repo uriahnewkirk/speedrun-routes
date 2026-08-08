@@ -1,8 +1,11 @@
 ## FALKNER
 
 pick Totodile  
-Catch Sentret (DAY)
-
+*Rival1*: LEER + SCRATCH  
+Buy 5 Pokeballs  
+Catch Sentret (DAY)  
+School Kid: SCRATCH spam  
+Bug Catcher: RAGE spam  
 
 ## BUGSY
 
