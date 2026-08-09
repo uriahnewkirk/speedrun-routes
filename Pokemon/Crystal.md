@@ -1,7 +1,7 @@
 ## FALKNER
 
 pick Totodile  
-Two(2) random encounters
+Two(2) random encounters  
 *Rival1*: LEER + SCRATCH (LVL7)  
 Catch Sentret (DAY)  
 YOUNGSTER MIKEY: SCRATCH spam  
