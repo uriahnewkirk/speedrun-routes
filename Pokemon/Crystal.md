@@ -9,6 +9,20 @@ GYM: RAGE spam (safety potion)
 
 ## BUGSY
 
+Repel Overworld item  
+Hidden Super Potion  
+(To get Water Gun at level 13, fight *ALBERT* & *PETER*: RAGE spam)  
+*Union Cave*: Water Gun all trainers except PokeManiac  
+*Hiker Anthony*: Water Gun (LVL16)  
+*AZALEA SHOP*:  
+- SELL MUD-SLAP  
+- Buy 1 POTION, 5 SUPER POTION, 6 REPEL, 2 ANTIDOTE  
+
+*SLOWPOKE CAVE:*  
+*Rocket:* RAGE; Water Gun mostly everyone else  
+
+*Azalea Gym*:  
+
 
 ## WHITNEY
 
