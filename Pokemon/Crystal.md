@@ -22,6 +22,7 @@ Hidden Super Potion
 *Rocket:* RAGE; Water Gun mostly everyone else  
 
 *Azalea Gym*:  Water Gun  
+Heal + Teach FURY CUTTER over LEER (slot2)
 *BUGSY*: RAGE  
 
 ## WHITNEY
