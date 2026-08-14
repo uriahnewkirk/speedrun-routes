@@ -32,7 +32,9 @@ Teach CUT
 Teach HEADBUTT over RAGE  
 *Goldenrod City*  
 Register Bike & get KENYA  
-Underground (Haircut)  
+NORTH to flower lady + return SOUTH  
+Underground (Haircut+items)  
+
 
 ## MORTY
 
