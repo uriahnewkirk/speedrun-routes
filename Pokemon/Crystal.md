@@ -28,6 +28,8 @@ Hidden Super Potion
 
 Heal + Teach FURY CUTTER over LEER (slot2)  
 *Rival2*: WATER GUN; FURY CUTTER (x3); WATER GUN  
+Teach CUT  
+Teach HEADBUTT over RAGE  
 
 ## MORTY
 
