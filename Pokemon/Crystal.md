@@ -21,8 +21,8 @@ Hidden Super Potion
 *SLOWPOKE CAVE:*  
 *Rocket:* RAGE; Water Gun mostly everyone else  
 
-*Azalea Gym*:  
-
+*Azalea Gym*:  Water Gun  
+*BUGSY*: RAGE  
 
 ## WHITNEY
 
