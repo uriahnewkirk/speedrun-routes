@@ -27,6 +27,7 @@ Hidden Super Potion
 ## WHITNEY
 
 Heal + Teach FURY CUTTER over LEER (slot2)  
+*Rival2*: WATER GUN; FURY CUTTER (x3); WATER GUN  
 
 ## MORTY
 
