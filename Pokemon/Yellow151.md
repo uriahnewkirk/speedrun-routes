@@ -1,3 +1,4 @@
+
 ## GENGAR
 
 *Rival1*: spam THUNDERSHOCK until win or loss   
@@ -8,8 +9,11 @@ Backtrack for VIRIDIAN FOREST trainer FLY
 Respawn, Open Menu and encounter GENGAR in VIRIDIAN FOREST  
 *GENGAR*: THUNDERSHOCK once &  catch  
 
+
 ## dexLG  
 
 
 
 Timer stops at Hall of Fame
+
+(outdated route that doesn't use "THE MANIP": http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Yellow/151_Pok%C3%A9mon/Stable_Unstable_Route)
