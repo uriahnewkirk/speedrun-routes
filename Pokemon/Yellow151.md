@@ -9,6 +9,12 @@ Backtrack for VIRIDIAN FOREST trainer FLY
 Respawn, Open Menu and encounter GENGAR in VIRIDIAN FOREST  
 *GENGAR*: THUNDERSHOCK once &  catch  
 
+## MISSINGNO
+wild encounter to underflow to Lv100  
+setup Trainer-Fly  
+Continue to Misty  
+*MISTY*: let PIKACHU faint on Starmie  
+Afterwards deposit GENGAR and faint to PEWTER  
 
 ## dexLG  
 
